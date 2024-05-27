@@ -1,0 +1,10 @@
+body{
+    animation:example;
+    animation-duration:1000ms;
+    animation-iteration-count:infinite;
+    
+}
+@keyframes example{
+    from{background-color: aqua;}
+    to{background-color: blue;}
+}
